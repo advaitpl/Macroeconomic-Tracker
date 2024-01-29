@@ -1,2 +1,1 @@
-# nimf-tracker-main
- NIMF Tracker Weekly, Codes and plots
+# Macroeconomic Tracker Fortnightly, Codes, Reports and plots
